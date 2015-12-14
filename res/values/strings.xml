@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  NiceCompass
+  Released under the BSD License. See README or LICENSE.
+  Copyright (c) 2011, Digital Lizard (Oscar Key, Thomas Boby)
+  All rights reserved.
+-->
+<resources>
+    <string name="app_name">Nice Compass</string>
+    <string name="magnetic_north">Magnetic North</string>
+    <string name="true_north">True North</string>
+    <string name="settings_category_general">General</string>
+    <string name="settings_item_north">North Reference</string>
+    <string name="preference_key_north">north</string>
+    <string name="settings_summary_north">True or magnetic north?</string>
+    <string name="menu_title_help">Help</string>
+    <string name="menu_title_manual_variation">Manual variation</string>
+    <string name="menu_title_manual_locked_brearing">Manual locked bearing</string>
+    <string name="bearing_selection_dialog_set_button">Set</string>
+    <string name="bearing_selection_dialog_auto_button">Auto</string>
+</resources>
