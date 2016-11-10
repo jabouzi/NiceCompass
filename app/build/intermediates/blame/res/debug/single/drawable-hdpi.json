@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/card.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/card.png"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/padlock_closed.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/padlock_closed.png"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/padlock_open.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/padlock_open.png"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_help.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/ic_action_help.png"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/interference.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/interference.png"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

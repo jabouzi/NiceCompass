@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable/activity_background.xml",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable/activity_background.xml"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable/actionbar_background.xml",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable/actionbar_background.xml"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable/actionbar_border.xml",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable/actionbar_border.xml"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/drawable/actionbar_background_tile.png",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/drawable/actionbar_background_tile.png"
+    }
+]

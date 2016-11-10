@@ -1,0 +1,7 @@
+#Thu Nov 10 09:40:09 EST 2016
+base.0=/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f59a5282ec65ade9c3a03db891d3468701a0319c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4301f92f77a0137e46e6dbbaf50447e582449fa6/classes.dex
+base.1=/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4301f92f77a0137e46e6dbbaf50447e582449fa6
+file.0=/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f59a5282ec65ade9c3a03db891d3468701a0319c/classes.dex

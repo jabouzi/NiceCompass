@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/layout-v11/help.xml",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/layout-v11/help.xml"
+    },
+    {
+        "merged": "/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/res/merged/debug/layout-v11/main.xml",
+        "source": "/home/sjabouzi/Developement/Android/NiceCompass/app/src/main/res/layout-v11/main.xml"
+    }
+]

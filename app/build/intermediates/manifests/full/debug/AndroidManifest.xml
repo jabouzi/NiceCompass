@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  NiceCompass
+  Released under the BSD License. See README or LICENSE.
+  Copyright (c) 2011, Digital Lizard (Oscar Key, Thomas Boby)
+  All rights reserved.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.digitallizard.nicecompass"
+    android:versionCode="440"
+    android:versionName="4.4.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="17" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowClearUserData="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.digitallizard.nicecompass.CompassActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/compassTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.digitallizard.nicecompass.HelpActivity"
+            android:label="Help"
+            android:screenOrientation="portrait"
+            android:theme="@style/compassTheme" />
+    </application>
+
+</manifest>

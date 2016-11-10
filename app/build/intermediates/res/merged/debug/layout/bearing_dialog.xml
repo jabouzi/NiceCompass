@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:padding="8dp"
+	android:stretchColumns="*">
+		<TableRow >
+		    <EditText android:id="@+id/bearingSelectionText"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_span="2"
+			    android:numeric="decimal|signed"
+			    android:inputType="numberDecimal|numberSigned"/>
+		</TableRow>
+		
+		<TableRow>
+			    <Button android:id="@+id/bearingSetButton"
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:text="@string/bearing_selection_dialog_set_button"/>"
+			    <Button android:id="@+id/bearingAutoButton"
+			        android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+			    	android:text="@string/bearing_selection_dialog_auto_button"/>
+		</TableRow>
+</TableLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sjabouzi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f34e4879ae755f0b5062b2449b6ab6f150f78322/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f744ed89a3b8b01490de3b2797362e554f7eda6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb69172c7605d22ad94b9d2d08a4d30a9396f821">
+        <dex dex="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4301f92f77a0137e46e6dbbaf50447e582449fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="592f0af5556cf977ff3f03bebf0b29335254e7c4">
+        <dex dex="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f59a5282ec65ade9c3a03db891d3468701a0319c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sjabouzi/Developement/Android/NiceCompass/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6d408ad597c11d35ac01a13cd23681740f484502/classes.dex" />
+    </item>
+
+</items>
